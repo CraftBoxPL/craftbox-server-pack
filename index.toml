@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".DS_Store"
-hash = "a4fdd0f1357b52e7c901048dc67cc562a34b68ccf9b254903972e2d55054f7b9"
-
-[[files]]
 file = "config/Adorn.json5"
 hash = "d8b0dd4665502e997cf7b6bd4967d1ac073d1bfb93074faab4e337f4cc045a45"
 
@@ -1579,10 +1575,6 @@ hash = "9757a6208de6780c7d86d61a75e997848a30a7e759f5e2f3e29d08ab7aa6383f"
 [[files]]
 file = "config/worldedit/worldedit.properties"
 hash = "307c932988bf37f01d42c2eeccc68ef1dd0024eefe84ddfb55238643f143f24e"
-
-[[files]]
-file = "mods/.DS_Store"
-hash = "8399d7a63354fb0473d45aa14260ca6eac244bbdfa45f314e4e1bdb0ec9f614c"
 
 [[files]]
 file = "mods/adorn.toml"
