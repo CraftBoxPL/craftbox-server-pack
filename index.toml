@@ -2027,6 +2027,10 @@ hash = "9e09ab34680e4e4011d0242415409ddeb811e69ae0e1f0aa4aa045fc85a7f6c9"
 metafile = true
 
 [[files]]
+file = "mods/launchers-mod-1.16-3.2.0.jar"
+hash = "34f7bb920239412698ed3cd977491eec0d466a957a82d6a508c78a44e0890d6d"
+
+[[files]]
 file = "mods/lazydfu.toml"
 hash = "35cfb7c642a96a9e6a8cc349653fd973d45efefdcae3fe0471a1fb9096f1e12f"
 metafile = true
@@ -2239,6 +2243,10 @@ hash = "30ff1e3578ccb64666f2588446a90338a0232f58f3b10e5aad11422b0d77efb2"
 file = "mods/save-my-stronghold-fabric.toml"
 hash = "30ac6c12c05123234395ca0b478cc66b18a2bd8c1c7a45de597ac6f02660f30e"
 metafile = true
+
+[[files]]
+file = "mods/sculkconcept-beta-0.1.0.jar"
+hash = "83348926ca890baf912576cfdef2552e5f915db42a0c8d62b213689a6a3a2186"
 
 [[files]]
 file = "mods/seamless-loading-screen.toml"
