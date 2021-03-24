@@ -2282,6 +2282,11 @@ hash = "8e25a97717274277907f16603fceec24e87729accae2f03d297ead7b8e5ef5bf"
 metafile = true
 
 [[files]]
+file = "mods/retail.toml"
+hash = "a5f24ed667d86843af6fd5808a773175cd9e62ba9cb1feb591646f27e00bfc5a"
+metafile = true
+
+[[files]]
 file = "mods/rpg-hud-fabric.toml"
 hash = "1de4a5321940b46213df3948df181145becc74a728423fcbc0cef8309db54606"
 metafile = true
@@ -2420,10 +2425,6 @@ metafile = true
 file = "mods/yungs-better-mineshafts-fabric.toml"
 hash = "87fd735b29c6dcc4cbce0bd9e1ca346ad11bb3cba8881c5b829884dca5d40948"
 metafile = true
-
-[[files]]
-file = "robots.txt"
-hash = "efdb5938a9736727f5cce2b60355588e4fa541d19d022d222d8a09b8efd5dcce"
 
 [[files]]
 file = "servers.dat"
