@@ -1,11 +1,11 @@
 name = "[FABRIC] Iron Furnaces"
-filename = "[FABRIC] ironfurnaces-1.16-2.4.1.jar"
+filename = "ironfurnaces-1.16-2.4.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3181/191/[FABRIC] ironfurnaces-1.16-2.4.1.jar"
-hash-format = "murmur2"
-hash = "2688275782"
+url = "https://github.com/CraftBoxPL/craftbox-server-pack/raw/master/mods/jars/ironfurnaces-1.16-2.4.1.jar"
+hash-format = "sha256"
+hash = "d3de54476a7284f650a3425f74f964bdb7231665b87dd3abc0235ab074e098db"
 
 [update]
 [update.curseforge]

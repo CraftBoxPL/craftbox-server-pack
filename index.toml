@@ -1582,7 +1582,7 @@ hash = "307c932988bf37f01d42c2eeccc68ef1dd0024eefe84ddfb55238643f143f24e"
 
 [[files]]
 file = "mods/.DS_Store"
-hash = "906a1f782a714565e722e0ef973de0a41b761413bffea5af060a0efe8a91b6af"
+hash = "8399d7a63354fb0473d45aa14260ca6eac244bbdfa45f314e4e1bdb0ec9f614c"
 
 [[files]]
 file = "mods/adorn.toml"
@@ -2056,7 +2056,7 @@ metafile = true
 
 [[files]]
 file = "mods/iron-furnaces-fabric.toml"
-hash = "5c8f30088f49aea3d0134418036835993cd39304336e88f62d13f956da17598d"
+hash = "3429171e65c91ada6e1767af8977bd47abb16d6d6cc0b50c42954075b7bbf3d9"
 metafile = true
 
 [[files]]
@@ -2219,7 +2219,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "9a754d5a9a2307b4811f3ec51867f3eae452a843273abf294e6f734c77c79ec2"
+hash = "3e61fd9be1136f0992db4df8fa060307179077167350a73dcc94619635077fd6"
 metafile = true
 
 [[files]]
@@ -2299,7 +2299,7 @@ metafile = true
 
 [[files]]
 file = "mods/rpg-hud-fabric.toml"
-hash = "03e6e9fa5c314196cb41ff61c7ced5f85b4727b4b950ac956e28190457cb70c6"
+hash = "1de4a5321940b46213df3948df181145becc74a728423fcbc0cef8309db54606"
 metafile = true
 
 [[files]]
