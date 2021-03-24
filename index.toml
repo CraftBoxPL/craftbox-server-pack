@@ -1582,7 +1582,7 @@ hash = "307c932988bf37f01d42c2eeccc68ef1dd0024eefe84ddfb55238643f143f24e"
 
 [[files]]
 file = "mods/.DS_Store"
-hash = "1a3e7e4440f5ba22546f17d848fc5119333a3413753cf9c7474452fd2f370714"
+hash = "906a1f782a714565e722e0ef973de0a41b761413bffea5af060a0efe8a91b6af"
 
 [[files]]
 file = "mods/adorn.toml"
@@ -2063,6 +2063,14 @@ metafile = true
 file = "mods/itemflexer.toml"
 hash = "db7e54756b5126ebab9a5e66155f75cc14a425cbaaa777b69d0064fcc1dbc293"
 metafile = true
+
+[[files]]
+file = "mods/jars/RPG-HUD-3.8.1.jar"
+hash = "30ff1e3578ccb64666f2588446a90338a0232f58f3b10e5aad11422b0d77efb2"
+
+[[files]]
+file = "mods/jars/ironfurnaces-1.16-2.4.1.jar"
+hash = "d3de54476a7284f650a3425f74f964bdb7231665b87dd3abc0235ab074e098db"
 
 [[files]]
 file = "mods/jline-for-minecraft-dedicated-server.toml"
