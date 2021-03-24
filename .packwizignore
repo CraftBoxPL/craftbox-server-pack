@@ -13,3 +13,5 @@ config/worldedit/sessions
 config/fdlink/fdlink.json
 mods/jars/*
 craftbox_pl.zip
+config/*
+!config/fancymenu
