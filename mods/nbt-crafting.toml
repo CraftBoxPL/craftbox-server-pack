@@ -1,0 +1,14 @@
+name = "Nbt Crafting (Fabric)"
+filename = "nbtcrafting-2.0.6+mc1.16.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3225/239/nbtcrafting-2.0.6+mc1.16.4.jar"
+hash-format = "murmur2"
+hash = "357080984"
+
+[update]
+[update.curseforge]
+file-id = 3225239
+project-id = 314633
+release-channel = "beta"

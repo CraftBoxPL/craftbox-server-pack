@@ -1,0 +1,14 @@
+name = "Earth2Java"
+filename = "Earth2Java-1.6.1+1.16.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3172/806/Earth2Java-1.6.1+1.16.4.jar"
+hash-format = "murmur2"
+hash = "2777208585"
+
+[update]
+[update.curseforge]
+file-id = 3172806
+project-id = 398022
+release-channel = "beta"

@@ -1,0 +1,72 @@
+{
+  "minecraftToDiscord": {
+    "playerMessage": {
+      "customMessage": "\u003c%player\u003e %message",
+      "useCustomMessage": true
+    },
+    "teamPlayerMessage": {
+      "customMessage": "%team \u003c%player\u003e %message",
+      "useCustomMessage": true
+    },
+    "serverStarting": "Serwer CraftBOX jest właśnie uruchamiany!",
+    "serverStarted": "Serwer CraftBOX został uruchomiony. Bramy zostały otwarte, możesz się zalogować!",
+    "serverStopping": "Serwer CraftBOX jest właśnie zatrzymywany!",
+    "serverStopped": "Serwer CraftBOX został wyłączony. Bramy zostały zamknięte, ale wkrótce do Was wracamy!",
+    "channelDescription": "Graczy online: %playercount/%maxplayercount,\n Uptime serwera : %uptime",
+    "playerJoined": {
+      "customMessage": "%player dołączył(a) do gry",
+      "useCustomMessage": true
+    },
+    "playerJoinedRenamed": {
+      "customMessage": "%new (znany(a) jako %old) dołączył(a) do gry",
+      "useCustomMessage": true
+    },
+    "playerLeft": {
+      "customMessage": "%player opuścił(a) grę",
+      "useCustomMessage": true
+    },
+    "advancementTask": {
+      "customMessage": "%player zdobył(A) osiągnięcie %advancement",
+      "useCustomMessage": true
+    },
+    "advancementChallenge": {
+      "customMessage": "%player ukończył(a) wyzwanie %advancement",
+      "useCustomMessage": true
+    },
+    "advancementGoal": {
+      "customMessage": "%player osiągnął(eła) cel %advancement",
+      "useCustomMessage": true
+    },
+    "deathMsgPrefix": "",
+    "deathMsgPostfix": "",
+    "atATellRaw": "%message",
+    "meMessage": {
+      "customMessage": "* %author %message",
+      "useCustomMessage": true
+    },
+    "adminMessage": {
+      "customMessage": "[%author: %message]",
+      "useCustomMessage": true
+    },
+    "sayMessage": {
+      "customMessage": "[%author] %message",
+      "useCustomMessage": true
+    },
+    "achievement": {
+      "customMessage": "%player właśnie zdobył(a) osiągnięcie %achievement",
+      "useCustomMessage": true
+    }
+  },
+  "discordToMinecraft": {
+    "message": "[Discord] %player: %message"
+  },
+  "discord": {
+    "commandPrefix": ".",
+    "botActivities": [
+      ".commands",
+      "%playercount / %maxplayercount",
+      "na CraftBOX.PL",
+      "%uptime_D day(s), %uptime_H hour(s), %uptime_M minute(s) and %uptime_S second(s)"
+    ]
+  }
+}

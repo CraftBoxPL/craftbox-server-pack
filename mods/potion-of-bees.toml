@@ -1,0 +1,14 @@
+name = "Potion of Bees"
+filename = "potionofbees-1.16.4-1.1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3121/58/potionofbees-1.16.4-1.1.0.2.jar"
+hash-format = "murmur2"
+hash = "2589945654"
+
+[update]
+[update.curseforge]
+file-id = 3121058
+project-id = 355348
+release-channel = "beta"

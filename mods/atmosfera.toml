@@ -1,0 +1,14 @@
+name = "Atmosfera"
+filename = "atmosfera-1.3.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3096/847/atmosfera-1.3.5.jar"
+hash-format = "murmur2"
+hash = "1763156071"
+
+[update]
+[update.curseforge]
+file-id = 3096847
+project-id = 338456
+release-channel = "beta"

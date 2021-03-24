@@ -1,0 +1,14 @@
+name = "limitless"
+filename = "limitless-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3221/777/limitless-1.2.2.jar"
+hash-format = "murmur2"
+hash = "998948410"
+
+[update]
+[update.curseforge]
+file-id = 3221777
+project-id = 386395
+release-channel = "beta"

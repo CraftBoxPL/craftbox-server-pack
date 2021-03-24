@@ -1,0 +1,14 @@
+name = "Health Blast"
+filename = "healthblast-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3223/931/healthblast-1.0.0.jar"
+hash-format = "murmur2"
+hash = "1452239125"
+
+[update]
+[update.curseforge]
+file-id = 3223931
+project-id = 452514
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "NookBuild"
+filename = "nookbuild-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3194/154/nookbuild-1.4.0.jar"
+hash-format = "murmur2"
+hash = "1446605470"
+
+[update]
+[update.curseforge]
+file-id = 3194154
+project-id = 399443
+release-channel = "beta"

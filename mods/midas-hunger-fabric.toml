@@ -1,0 +1,14 @@
+name = "Midas Hunger [Fabric]"
+filename = "midas-hunger-1.3.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3197/136/midas-hunger-1.3.2.jar"
+hash-format = "murmur2"
+hash = "3750167598"
+
+[update]
+[update.curseforge]
+file-id = 3197136
+project-id = 436224
+release-channel = "beta"

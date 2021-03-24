@@ -1,0 +1,14 @@
+name = "Ranger's Haven"
+filename = "rangers_haven-2.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3214/735/rangers_haven-2.2.1.jar"
+hash-format = "murmur2"
+hash = "219615206"
+
+[update]
+[update.curseforge]
+file-id = 3214735
+project-id = 418262
+release-channel = "beta"

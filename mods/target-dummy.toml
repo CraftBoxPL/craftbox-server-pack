@@ -1,0 +1,14 @@
+name = "Target Dummy"
+filename = "target-dummy-1.0.2-1.16.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3100/632/target-dummy-1.0.2-1.16.4.jar"
+hash-format = "murmur2"
+hash = "385699653"
+
+[update]
+[update.curseforge]
+file-id = 3100632
+project-id = 315420
+release-channel = "beta"

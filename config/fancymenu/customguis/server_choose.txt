@@ -1,0 +1,3 @@
+identifier = server_choose
+title = Server Choose
+allowesc = true

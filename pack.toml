@@ -1,0 +1,12 @@
+name = "CraftBOX.pl"
+author = "CraftBOX Dev Team"
+version = "1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7c26b7fde4bdb4e83095db1531c0ebd46b5e46a44642cfdd6155885e024923bf"
+
+[versions]
+fabric = "0.11.3"
+minecraft = "1.16.5"

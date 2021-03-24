@@ -1,0 +1,14 @@
+name = "[Fabric] Iron Chests"
+filename = "IronChest-1.2+fabric-1.16.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3132/252/IronChest-1.2+fabric-1.16.4.jar"
+hash-format = "murmur2"
+hash = "520174871"
+
+[update]
+[update.curseforge]
+file-id = 3132252
+project-id = 402750
+release-channel = "beta"

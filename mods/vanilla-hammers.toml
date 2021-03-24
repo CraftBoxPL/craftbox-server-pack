@@ -1,0 +1,14 @@
+name = "Vanilla Hammers"
+filename = "vanilla-hammers-3.0.2-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3224/736/vanilla-hammers-3.0.2-1.16.5.jar"
+hash-format = "murmur2"
+hash = "4270073463"
+
+[update]
+[update.curseforge]
+file-id = 3224736
+project-id = 317756
+release-channel = "beta"

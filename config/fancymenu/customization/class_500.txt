@@ -1,0 +1,76 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_500
+  renderorder = foreground
+}
+
+customization {
+  identifier = %id=346948%
+  orientation = bottom-centered
+  x = -73
+  action = movebutton
+  y = -41
+}
+
+customization {
+  identifier = %id=346948%
+  width = 147
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=346948%
+  action = setbuttonlabel
+  value = Dołącz do świata CraftBOX
+}
+
+customization {
+  identifier = %id=580972%
+  orientation = bottom-centered
+  x = -167
+  action = movebutton
+  y = -41
+}
+
+customization {
+  identifier = %id=580972%
+  action = setbuttonlabel
+  value = Anuluj
+}
+
+customization {
+  identifier = %id=504972%
+  orientation = bottom-centered
+  x = 94
+  action = movebutton
+  y = -41
+}
+
+customization {
+  identifier = %id=504972%
+  action = setbuttonlabel
+  value = Odśwież listę
+}
+
+customization {
+  identifier = %id=450948%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=346972%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=426972%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=554948%
+  action = hidebutton
+}
+

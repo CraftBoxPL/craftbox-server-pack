@@ -1,0 +1,110 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  renderorder = background
+}
+
+customization {
+  name = minecraftyoutube
+  action = animatebackground
+}
+
+customization {
+  action = setscale
+  scale = 3
+}
+
+customization {
+  identifier = %id=400310%
+  action = setbuttonlabel
+  value = Rozpocznij rozgrywkę
+}
+
+customization {
+  identifier = %id=95012%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=604394%
+  orientation = top-left
+  x = 0
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=376394%
+  orientation = top-right
+  x = -20
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=400358%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 4
+}
+
+customization {
+  identifier = %id=400358%
+  action = setbuttonlabel
+  value = Dostępne modyfikacje
+}
+
+customization {
+  identifier = %id=502394%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 50
+}
+
+customization {
+  identifier = %id=502394%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502394%
+  action = setbuttonlabel
+  value = Zamknij klienta
+}
+
+customization {
+  identifier = %id=400286%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400334%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400394%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 27
+}
+
+customization {
+  identifier = %id=400394%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400394%
+  action = setbuttonlabel
+  value = Ustawienia klienta
+}
+

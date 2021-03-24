@@ -1,0 +1,14 @@
+name = "Chicken Drop Feathers"
+filename = "ChickenDropFeathers-1.0-fabric-0.31.0+1.16.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3236/102/ChickenDropFeathers-1.0-fabric-0.31.0+1.16.jar"
+hash-format = "murmur2"
+hash = "500639410"
+
+[update]
+[update.curseforge]
+file-id = 3236102
+project-id = 300374
+release-channel = "beta"

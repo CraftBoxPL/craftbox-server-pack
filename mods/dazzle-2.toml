@@ -1,0 +1,14 @@
+name = "Dazzle 2"
+filename = "dazzle-2-1.16.5-0.9.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3224/578/dazzle-2-1.16.5-0.9.0.jar"
+hash-format = "murmur2"
+hash = "1026050141"
+
+[update]
+[update.curseforge]
+file-id = 3224578
+project-id = 452713
+release-channel = "beta"

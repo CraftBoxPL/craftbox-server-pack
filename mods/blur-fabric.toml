@@ -1,0 +1,19 @@
+name = "Blur (Fabric)"
+filename = "Blur-2.1.0-1.16+fabric.jar"
+side = "client"
+
+[option]
+optional = true
+description = "Blur adds a Gaussian blur shader to the background of all GUIs."
+default = true
+
+[download]
+url = "https://edge.forgecdn.net/files/3227/472/Blur-2.1.0-1.16+fabric.jar"
+hash-format = "murmur2"
+hash = "3815905697"
+
+[update]
+[update.curseforge]
+file-id = 3227472
+project-id = 393563
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Basic Nether Ores [Forge/Fabric]"
+filename = "BasicNetherOres-1.16.5-5.5.0-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3202/938/BasicNetherOres-1.16.5-5.5.0-Fabric.jar"
+hash-format = "murmur2"
+hash = "2678478847"
+
+[update]
+[update.curseforge]
+file-id = 3202938
+project-id = 289647
+release-channel = "beta"

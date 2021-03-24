@@ -1,0 +1,14 @@
+name = "Wither Skeleton Totem"
+filename = "Wither Totems [Forge]-0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3239/804/Wither Totems [Forge]-0.3.jar"
+hash-format = "murmur2"
+hash = "784941861"
+
+[update]
+[update.curseforge]
+file-id = 3239804
+project-id = 349850
+release-channel = "beta"

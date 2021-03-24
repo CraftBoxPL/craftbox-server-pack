@@ -1,0 +1,14 @@
+name = "Customizable Elytra (Fabric)"
+filename = "customizableelytra-fabric-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3248/956/customizableelytra-fabric-1.2.0.jar"
+hash-format = "murmur2"
+hash = "3828092179"
+
+[update]
+[update.curseforge]
+file-id = 3248956
+project-id = 448274
+release-channel = "beta"

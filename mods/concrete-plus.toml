@@ -1,0 +1,14 @@
+name = "Concrete Plus[Fabric]"
+filename = "concrete-plus-1.5.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3246/358/concrete-plus-1.5.3.jar"
+hash-format = "murmur2"
+hash = "3058989354"
+
+[update]
+[update.curseforge]
+file-id = 3246358
+project-id = 439266
+release-channel = "beta"

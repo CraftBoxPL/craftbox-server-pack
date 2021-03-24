@@ -1,0 +1,14 @@
+name = "MC Story Mode Armors"
+filename = "mcsa-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3203/851/mcsa-2.0.0.jar"
+hash-format = "murmur2"
+hash = "1004218133"
+
+[update]
+[update.curseforge]
+file-id = 3203851
+project-id = 442332
+release-channel = "beta"

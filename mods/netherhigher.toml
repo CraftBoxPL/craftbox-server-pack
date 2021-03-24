@@ -1,0 +1,14 @@
+name = "netherHigher"
+filename = "netherHigher-1.1.1+build.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3156/825/netherHigher-1.1.1+build.6.jar"
+hash-format = "murmur2"
+hash = "2211738346"
+
+[update]
+[update.curseforge]
+file-id = 3156825
+project-id = 361588
+release-channel = "beta"

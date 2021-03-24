@@ -1,0 +1,14 @@
+name = "Faster Minecarts"
+filename = "faster-minecarts-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3188/261/faster-minecarts-1.1.2.jar"
+hash-format = "murmur2"
+hash = "3872653034"
+
+[update]
+[update.curseforge]
+file-id = 3188261
+project-id = 437640
+release-channel = "beta"

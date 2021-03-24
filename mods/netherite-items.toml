@@ -1,0 +1,14 @@
+name = "Netherite Items"
+filename = "netherite-items-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3178/681/netherite-items-1.1.0.jar"
+hash-format = "murmur2"
+hash = "3722644422"
+
+[update]
+[update.curseforge]
+file-id = 3178681
+project-id = 427739
+release-channel = "beta"

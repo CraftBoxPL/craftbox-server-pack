@@ -1,0 +1,14 @@
+name = "Canvas Renderer"
+filename = "canvas-mc116-1.0.1267.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3155/365/canvas-mc116-1.0.1267.jar"
+hash-format = "murmur2"
+hash = "3089688349"
+
+[update]
+[update.curseforge]
+file-id = 3155365
+project-id = 318440
+release-channel = "beta"

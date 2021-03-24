@@ -1,0 +1,14 @@
+name = "Enhanced Block Entities"
+filename = "enhancedblockentities-0.1--1.16.x.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3222/332/enhancedblockentities-0.1--1.16.x.jar"
+hash-format = "murmur2"
+hash = "945898393"
+
+[update]
+[update.curseforge]
+file-id = 3222332
+project-id = 452046
+release-channel = "beta"

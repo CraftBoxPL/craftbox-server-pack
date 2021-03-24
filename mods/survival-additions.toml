@@ -1,0 +1,14 @@
+name = "Survival Additions"
+filename = "SurvivalAdditions-1.3.2-Fabric-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3198/602/SurvivalAdditions-1.3.2-Fabric-1.16.5.jar"
+hash-format = "murmur2"
+hash = "730557132"
+
+[update]
+[update.curseforge]
+file-id = 3198602
+project-id = 298813
+release-channel = "beta"

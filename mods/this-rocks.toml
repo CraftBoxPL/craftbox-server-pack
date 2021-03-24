@@ -1,0 +1,14 @@
+name = "This Rocks!"
+filename = "rocks-1.3.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3196/895/rocks-1.3.1.jar"
+hash-format = "murmur2"
+hash = "333859995"
+
+[update]
+[update.curseforge]
+file-id = 3196895
+project-id = 416283
+release-channel = "beta"

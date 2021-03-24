@@ -1,0 +1,14 @@
+name = "Vanilla Foods Enhanced [FABRIC]"
+filename = "vafoen1.1.1+1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3187/26/vafoen1.1.1+1.16.5.jar"
+hash-format = "murmur2"
+hash = "1867496941"
+
+[update]
+[update.curseforge]
+file-id = 3187026
+project-id = 434711
+release-channel = "beta"

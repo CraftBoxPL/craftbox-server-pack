@@ -1,0 +1,14 @@
+name = "The Parakeet Mod"
+filename = "theparakeetmod-Fabric-1.16.3-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3066/428/theparakeetmod-Fabric-1.16.3-1.0.6.jar"
+hash-format = "murmur2"
+hash = "3961533025"
+
+[update]
+[update.curseforge]
+file-id = 3066428
+project-id = 404471
+release-channel = "beta"

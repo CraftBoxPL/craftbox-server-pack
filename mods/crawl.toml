@@ -1,0 +1,14 @@
+name = "Crawl (Fabric)"
+filename = "crawl-0.8.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3213/47/crawl-0.8.2.jar"
+hash-format = "murmur2"
+hash = "2561614976"
+
+[update]
+[update.curseforge]
+file-id = 3213047
+project-id = 314579
+release-channel = "beta"

@@ -1,0 +1,13 @@
+name = "Fireplace Lib"
+filename = "Fireplace-Lib-3.1.0+1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ING0LAPF/versions/3.1.0+1.16.5/Fireplace-Lib-3.1.0+1.16.5.jar"
+hash-format = "sha512"
+hash = "7db38054f1132678a096b2043c2c1f174a3d213f5d6a14afa9ea3b0453779d2a163613ee79666975e873411ed4d0a35f0fd8b1f84d222d18f1e93db1842db656"
+
+[update]
+[update.modrinth]
+mod-id = "ING0LAPF"
+version = "TwUAzUWQ"

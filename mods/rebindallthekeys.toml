@@ -1,0 +1,14 @@
+name = "RebindAllTheKeys"
+filename = "rebind-all-the-keys-1.1.0+1.16.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3181/692/rebind-all-the-keys-1.1.0+1.16.2.jar"
+hash-format = "murmur2"
+hash = "83254252"
+
+[update]
+[update.curseforge]
+file-id = 3181692
+project-id = 398407
+release-channel = "beta"

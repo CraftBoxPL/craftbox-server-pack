@@ -1,0 +1,14 @@
+name = "JLine for Dedicated Server"
+filename = "jline4mcdsrv-0.1.0.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3181/764/jline4mcdsrv-0.1.0.jar"
+hash-format = "murmur2"
+hash = "1056696282"
+
+[update]
+[update.curseforge]
+file-id = 3181764
+project-id = 392559
+release-channel = "beta"

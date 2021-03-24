@@ -1,0 +1,14 @@
+name = "Fabric-Discord Link"
+filename = "Fabric-Discord-Link-0.8.13.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3248/66/Fabric-Discord-Link-0.8.13.jar"
+hash-format = "murmur2"
+hash = "2667037355"
+
+[update]
+[update.curseforge]
+file-id = 3248066
+project-id = 318315
+release-channel = "beta"

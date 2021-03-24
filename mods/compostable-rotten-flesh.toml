@@ -1,0 +1,14 @@
+name = "Compostable Rotten Flesh (Fabric)"
+filename = "compostable-rottenflesh-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3224/938/compostable-rottenflesh-1.0.0.jar"
+hash-format = "murmur2"
+hash = "408299970"
+
+[update]
+[update.curseforge]
+file-id = 3224938
+project-id = 452832
+release-channel = "beta"
