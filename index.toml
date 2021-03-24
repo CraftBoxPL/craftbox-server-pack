@@ -2717,7 +2717,7 @@ metafile = true
 
 [[files]]
 file = "mods/rpg-hud-fabric.toml"
-hash = "c1f0d75bcf923de832244d111d211aa137fc69ac4630a95530916c12de742d34"
+hash = "b19eec0cc586ec06f266987569c3f642fb70668b9289ed03caa4ebe582e4914c"
 metafile = true
 
 [[files]]
