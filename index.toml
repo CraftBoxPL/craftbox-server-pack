@@ -9,6 +9,10 @@ file = ".gitignore"
 hash = "2cc884ee64ae3d5312e0ad713857d0c97b4d6b5c9f657878b489af7ccbd9a2c1"
 
 [[files]]
+file = "CNAME"
+hash = "2eac42a30da320d47ee975a93ffcdc98ca64795bad2498035cf0b8e34e5b0e73"
+
+[[files]]
 file = "config/Adorn.json5"
 hash = "d8b0dd4665502e997cf7b6bd4967d1ac073d1bfb93074faab4e337f4cc045a45"
 
@@ -2818,7 +2822,7 @@ metafile = true
 
 [[files]]
 file = "mods/wither-totem.toml"
-hash = "be30712a379095cac11508fe0045fc58454ea4028a43140300817910b3df35e4"
+hash = "92667f16a90ad0f09e7b9200236fe378cd75da03fa115bed3409f98bd503b6d9"
 metafile = true
 
 [[files]]
