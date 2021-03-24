@@ -11,3 +11,4 @@ config/worldedit/.archive-unpack
 config/worldedit/sessions
 config/fdlink/fdlink.json
 mods/jars/*
+craftbox_pl.zip
