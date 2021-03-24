@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3197/990/mousewheelie-1.6.4+mc1.16.4.jar"
-hash-format = "murmur2"
-hash = "4038611977"
+hash-format = "sha256"
+hash = "d56b13bd8f52eba87f46460534e1881fd5db43091dc4794435e712e185a488cb"
 
 [update]
 [update.curseforge]

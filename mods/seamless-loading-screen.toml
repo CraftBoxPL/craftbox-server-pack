@@ -1,6 +1,6 @@
 name = "Seamless Loading Screen"
 filename = "seamless-loading-screen-1.3.2+1.16.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3233/999/seamless-loading-screen-1.3.2+1.16.2.jar"

@@ -2194,7 +2194,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.toml"
-hash = "f92051a5260cd735cc56407b1cedcb846ec7ec5b028a57f2bcf82ed5751ee326"
+hash = "caab538f8a73b1bb8921421d4baa64b53041eddf9dd8b4093395783e1be9a71f"
 metafile = true
 
 [[files]]

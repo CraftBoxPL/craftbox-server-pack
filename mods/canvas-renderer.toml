@@ -1,6 +1,6 @@
 name = "Canvas Renderer"
 filename = "canvas-mc116-1.0.1267.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3155/365/canvas-mc116-1.0.1267.jar"

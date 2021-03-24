@@ -1,6 +1,6 @@
 name = "Debrand"
 filename = "debrand-1.0.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/2987/945/debrand-1.0.2.jar"
