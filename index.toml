@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/RPG-HUD"
+hash = "b029dd1ab46e90e14e07c11781a52e7934b4c4e21f0c667f169fb909519e7107"
+
+[[files]]
+file = "config/darkness.properties"
+hash = "fff35ea7f9ed43919929979aa3ce3535a89b43b172331286b08c98a48325610a"
+
+[[files]]
+file = "config/debrand.json"
+hash = "7c9072dbdd53c881e21867a014600d3265f3be762bd29c799004be8425296c38"
+
+[[files]]
 file = "config/fancymenu/animations/minecraftyoutube/animation/100.jpg"
 hash = "21df9b653bda3f91cc104af76144f8cba06fa9be6a552fd0ce540c5de822fdf2"
 
@@ -919,6 +931,10 @@ hash = "3dac2d7e99669d6e4dc3cb29283673ce9632b91f852f07e2b8c571b7c0d03427"
 [[files]]
 file = "config/fancymenu/sounds/intro.wav"
 hash = "47570375fd777f8773f53ce3333ead9f462f0b5c6e237722a01737e13875f686"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "503f96151dab202359895d267084c5ca81604cf9a3455446c20a5c0c69ec7cdb"
 
 [[files]]
 file = "mods/adorn.toml"

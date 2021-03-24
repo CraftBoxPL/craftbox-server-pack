@@ -8,10 +8,6 @@ robots.txt
 packwiz
 index.html
 CNAME
-config/worldedit/.archive-unpack
-config/worldedit/sessions
-config/fdlink/fdlink.json
 mods/jars/*
 craftbox_pl.zip
-config/*
-!config/fancymenu
+
