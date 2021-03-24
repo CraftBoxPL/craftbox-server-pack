@@ -1,9 +1,9 @@
 name = "RPG-Hud [Fabric]"
-filename = "[1.16.2][Fabric]%20RPG-HUD-3.8.1.jar"
+filename = "[1.16.2][Fabric] RPG-HUD-3.8.1.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3047/749/[1.16.2][Fabric]%20RPG-HUD-3.8.1.jar"
+url = "https://media.forgecdn.net/files/3047/749/%5b1.16.2%5d%5bFabric%5d+RPG-HUD-3.8.1.jar"
 hash-format = "murmur2"
 hash = "3297075291"
 

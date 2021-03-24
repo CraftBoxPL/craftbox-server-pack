@@ -2056,7 +2056,7 @@ metafile = true
 
 [[files]]
 file = "mods/iron-furnaces-fabric.toml"
-hash = "8c2f3618704ecae69d3102ef81765667d28de314fc16c589bc76ec4caf6b1777"
+hash = "5c8f30088f49aea3d0134418036835993cd39304336e88f62d13f956da17598d"
 metafile = true
 
 [[files]]
@@ -2291,7 +2291,7 @@ metafile = true
 
 [[files]]
 file = "mods/rpg-hud-fabric.toml"
-hash = "1c052080792887926b9306458e310f69b6338a779ae4981c8fc53d37b31cba83"
+hash = "03e6e9fa5c314196cb41ff61c7ced5f85b4727b4b950ac956e28190457cb70c6"
 metafile = true
 
 [[files]]
