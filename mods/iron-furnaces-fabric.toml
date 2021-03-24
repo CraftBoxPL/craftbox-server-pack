@@ -3,7 +3,7 @@ filename = "[FABRIC] ironfurnaces-1.16-2.4.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3181/191/[FABRIC] ironfurnaces-1.16-2.4.1.jar"
+url = "https://edge.forgecdn.net/files/3181/191/[FABRIC]%20ironfurnaces-1.16-2.4.1.jar"
 hash-format = "murmur2"
 hash = "2688275782"
 

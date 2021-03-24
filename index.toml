@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".DS_Store"
-hash = "ef5df14c462c7ea7a45e6b0be5441815af51ce2dcdb0c9d17f86ccae7fe3210d"
+hash = "a4fdd0f1357b52e7c901048dc67cc562a34b68ccf9b254903972e2d55054f7b9"
 
 [[files]]
 file = "config/Adorn.json5"
@@ -2056,7 +2056,7 @@ metafile = true
 
 [[files]]
 file = "mods/iron-furnaces-fabric.toml"
-hash = "5c8f30088f49aea3d0134418036835993cd39304336e88f62d13f956da17598d"
+hash = "8c2f3618704ecae69d3102ef81765667d28de314fc16c589bc76ec4caf6b1777"
 metafile = true
 
 [[files]]
@@ -2291,7 +2291,7 @@ metafile = true
 
 [[files]]
 file = "mods/rpg-hud-fabric.toml"
-hash = "33a432d671af97f738687a6386412d3b9110a51bd6ee99285eee0168bf5b501b"
+hash = "1c052080792887926b9306458e310f69b6338a779ae4981c8fc53d37b31cba83"
 metafile = true
 
 [[files]]
