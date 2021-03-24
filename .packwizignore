@@ -2,7 +2,7 @@
 .gitattributes
 .gitignore
 .DS_Store
-/mods/.DS_Store
+mods/.DS_Store
 readme.md
 packwiz
 index.html
@@ -10,4 +10,4 @@ CNAME
 config/worldedit/.archive-unpack
 config/worldedit/sessions
 config/fdlink/fdlink.json
-mods/jars
+mods/jars/*
