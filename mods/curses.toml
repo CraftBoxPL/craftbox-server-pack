@@ -1,0 +1,14 @@
+name = "Curses!"
+filename = "curses-mod-1.5.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3124/864/curses-mod-1.5.1.jar"
+hash-format = "murmur2"
+hash = "3965572259"
+
+[update]
+[update.curseforge]
+file-id = 3124864
+project-id = 370986
+release-channel = "beta"

@@ -1,6 +1,6 @@
 name = "FancyMenu [Fabric]"
 filename = "fancymenu_fabric_1.7.1-1_MC_1.16.3-1.16.5.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3198/688/fancymenu_fabric_1.7.1-1_MC_1.16.3-1.16.5.jar"

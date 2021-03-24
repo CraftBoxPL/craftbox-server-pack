@@ -1,18 +1,14 @@
 name = "Bobby"
-filename = "bobby-1.1.2.jar"
-side = "client"
-
-[option]
-optional = true
-description = "Allows for render distances greater than the server's view-distance"
-default = true
+filename = "bobby-1.1.1.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/M08ruV16/versions/1.1.2/bobby-1.1.2.jar"
-hash-format = "sha512"
-hash = "7b5e29f9b2a6910b61a7bead1cfee153b2677d7a565ab9f06385ff578f97b7fdebf54493b70c09b02d3661ea6abdf920a6a96fa3105dc57afe710a1a0a0f7961"
+url = "https://edge.forgecdn.net/files/3245/733/bobby-1.1.1.jar"
+hash-format = "murmur2"
+hash = "612747101"
 
 [update]
-[update.modrinth]
-mod-id = "M08ruV16"
-version = "D4LGyyjB"
+[update.curseforge]
+file-id = 3245733
+project-id = 409301
+release-channel = "beta"

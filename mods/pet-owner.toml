@@ -1,6 +1,6 @@
 name = "Pet Owner"
 filename = "PetOwner-1.7.1-1.16.2+.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3129/299/PetOwner-1.7.1-1.16.2+.jar"

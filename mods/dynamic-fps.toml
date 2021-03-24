@@ -2,11 +2,6 @@ name = "Dynamic FPS"
 filename = "dynamic-fps-2.0.1.jar"
 side = "both"
 
-[option]
-optional = true
-description = "Dynamic FPS automatically reduces the speed at which minecraft renders when it's not focused."
-default = true
-
 [download]
 url = "https://edge.forgecdn.net/files/3175/749/dynamic-fps-2.0.1.jar"
 hash-format = "murmur2"

@@ -1,0 +1,14 @@
+name = "Caves & Cliffs: Sculk"
+filename = "sculkconcept-beta-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3091/845/sculkconcept-beta-0.1.0.jar"
+hash-format = "murmur2"
+hash = "3409193429"
+
+[update]
+[update.curseforge]
+file-id = 3091845
+project-id = 415254
+release-channel = "beta"

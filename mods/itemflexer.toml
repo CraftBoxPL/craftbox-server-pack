@@ -1,6 +1,6 @@
 name = "ItemFlexer"
 filename = "itemflexer-1.1.4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3232/297/itemflexer-1.1.4.jar"

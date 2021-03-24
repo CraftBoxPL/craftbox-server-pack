@@ -1,0 +1,14 @@
+name = "Carpet TIS Addition"
+filename = "carpet-tis-addition-mc1.16.5-1.15.0+build.492.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3235/287/carpet-tis-addition-mc1.16.5-1.15.0+build.492.jar"
+hash-format = "murmur2"
+hash = "2771036397"
+
+[update]
+[update.curseforge]
+file-id = 3235287
+project-id = 397510
+release-channel = "beta"

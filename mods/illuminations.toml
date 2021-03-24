@@ -1,11 +1,6 @@
 name = "Illuminations 🔥"
 filename = "illuminations-1.4.6.jar"
-side = "client"
-
-[option]
-optional = true
-description = "A client mod that adds fireflies and various glow-in-the-dark ambient particles to your world."
-default = true
+side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3238/442/illuminations-1.4.6.jar"

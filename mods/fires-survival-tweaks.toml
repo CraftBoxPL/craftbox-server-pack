@@ -3,11 +3,12 @@ filename = "FiresSurvivalTweaks-2.1.0+1.16.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KXYiOK8C/versions/2.1.0+1.16.5/FiresSurvivalTweaks-2.1.0+1.16.5.jar"
-hash-format = "sha512"
-hash = "f72b9818674f3de29c8ad8a7c24d365e580473ab47882b714e315bf3771ff6fa0a035b742a3a28ca5e2e9f3ff983b5b2bbcf1b029415b8e48fbf9c8441279568"
+url = "https://edge.forgecdn.net/files/3230/786/FiresSurvivalTweaks-2.1.0+1.16.5.jar"
+hash-format = "murmur2"
+hash = "2743433472"
 
 [update]
-[update.modrinth]
-mod-id = "KXYiOK8C"
-version = "muCGAK0j"
+[update.curseforge]
+file-id = 3230786
+project-id = 232464
+release-channel = "beta"

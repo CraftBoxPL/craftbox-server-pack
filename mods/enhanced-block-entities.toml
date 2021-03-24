@@ -1,6 +1,6 @@
 name = "Enhanced Block Entities"
 filename = "enhancedblockentities-0.1--1.16.x.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3222/332/enhancedblockentities-0.1--1.16.x.jar"

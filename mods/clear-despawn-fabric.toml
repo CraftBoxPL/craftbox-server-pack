@@ -2,11 +2,6 @@ name = "Clear Despawn (Fabric)"
 filename = "cleardespawn-1.16.5-fabric0.30.0-1.1.1.jar"
 side = "client"
 
-[option]
-optional = true
-description = "Makes dropped items flash when they're about 20s to despawn."
-default = true
-
 [download]
 url = "https://edge.forgecdn.net/files/3193/561/cleardespawn-1.16.5-fabric0.30.0-1.1.1.jar"
 hash-format = "murmur2"

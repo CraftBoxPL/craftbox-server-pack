@@ -1,14 +1,14 @@
 name = "Damage Tint"
-filename = "damage-tint-forge-1.16.5-1.0.1.jar"
-side = "client"
+filename = "damage-tint-fabric-1.16.5-1.0.1.jar"
+side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3203/478/damage-tint-forge-1.16.5-1.0.1.jar"
+url = "https://edge.forgecdn.net/files/3203/476/damage-tint-fabric-1.16.5-1.0.1.jar"
 hash-format = "murmur2"
-hash = "3568950490"
+hash = "2879672195"
 
 [update]
 [update.curseforge]
-file-id = 3203478
+file-id = 3203476
 project-id = 434182
 release-channel = "beta"

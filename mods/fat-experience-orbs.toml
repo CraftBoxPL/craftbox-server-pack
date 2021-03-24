@@ -1,6 +1,6 @@
 name = "[Fabric] Fat Experience Orbs"
 filename = "fatxporbs-0.0.9+1.16.4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3128/781/fatxporbs-0.0.9+1.16.4.jar"

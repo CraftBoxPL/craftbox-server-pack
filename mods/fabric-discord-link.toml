@@ -1,6 +1,6 @@
 name = "Fabric-Discord Link"
 filename = "Fabric-Discord-Link-0.8.13.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3248/66/Fabric-Discord-Link-0.8.13.jar"

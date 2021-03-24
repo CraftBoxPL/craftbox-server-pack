@@ -1,0 +1,14 @@
+name = "Grid"
+filename = "grid-1.16.5-fabric0.30.0-1.6.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3193/606/grid-1.16.5-fabric0.30.0-1.6.4.jar"
+hash-format = "murmur2"
+hash = "2263579694"
+
+[update]
+[update.curseforge]
+file-id = 3193606
+project-id = 310560
+release-channel = "beta"

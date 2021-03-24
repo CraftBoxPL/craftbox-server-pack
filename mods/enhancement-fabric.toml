@@ -1,0 +1,14 @@
+name = "Enhancement (Fabric)"
+filename = "enhancement-fabric-0.7.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3207/37/enhancement-fabric-0.7.0.jar"
+hash-format = "murmur2"
+hash = "664097416"
+
+[update]
+[update.curseforge]
+file-id = 3207037
+project-id = 436588
+release-channel = "beta"

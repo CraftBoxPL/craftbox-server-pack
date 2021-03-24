@@ -1,6 +1,6 @@
 name = "JLine for Dedicated Server"
 filename = "jline4mcdsrv-0.1.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3181/764/jline4mcdsrv-0.1.0.jar"

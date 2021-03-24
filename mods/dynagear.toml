@@ -1,0 +1,14 @@
+name = "DynaGear"
+filename = "dynagear-1.4.4+1.16.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3027/335/dynagear-1.4.4+1.16.1.jar"
+hash-format = "murmur2"
+hash = "1969824008"
+
+[update]
+[update.curseforge]
+file-id = 3027335
+project-id = 327435
+release-channel = "beta"

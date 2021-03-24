@@ -1,0 +1,14 @@
+name = "Launchers"
+filename = "launchers-mod-1.16-3.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3191/620/launchers-mod-1.16-3.2.0.jar"
+hash-format = "murmur2"
+hash = "3667963054"
+
+[update]
+[update.curseforge]
+file-id = 3191620
+project-id = 372835
+release-channel = "beta"

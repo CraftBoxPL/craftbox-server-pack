@@ -1,0 +1,14 @@
+name = "Workbench Factory"
+filename = "factory-fabric-1.16.2-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3045/236/factory-fabric-1.16.2-1.3.0.jar"
+hash-format = "murmur2"
+hash = "2280830283"
+
+[update]
+[update.curseforge]
+file-id = 3045236
+project-id = 386566
+release-channel = "beta"

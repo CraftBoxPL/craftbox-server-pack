@@ -1,6 +1,6 @@
 name = "Fast Furnace for Fabric"
 filename = "fastfurnace-2.3.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3023/434/fastfurnace-2.3.jar"

@@ -1,6 +1,6 @@
 name = "Konkrete [Fabric]"
 filename = "konkrete_fabric_1.1.3_MC_1.16.3-1.16.5.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3191/489/konkrete_fabric_1.1.3_MC_1.16.3-1.16.5.jar"

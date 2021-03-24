@@ -1,6 +1,6 @@
 name = "Fabric Console"
 filename = "fabric-console-1.0.3+1.16.3.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3062/13/fabric-console-1.0.3+1.16.3.jar"

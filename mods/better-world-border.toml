@@ -1,6 +1,6 @@
 name = "Better World Border"
 filename = "BetterWorldBorder-1.0.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3177/708/BetterWorldBorder-1.0.0.jar"
