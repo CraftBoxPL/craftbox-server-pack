@@ -3,6 +3,7 @@ hash-format = "sha256"
 [[files]]
 file = "config/RPG-HUD"
 hash = "b029dd1ab46e90e14e07c11781a52e7934b4c4e21f0c667f169fb909519e7107"
+preserve = true
 
 [[files]]
 file = "config/darkness.properties"
@@ -939,6 +940,7 @@ hash = "503f96151dab202359895d267084c5ca81604cf9a3455446c20a5c0c69ec7cdb"
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
 hash = "5f94324512461f3f01091b395bc36cbb1546d95d11628059b00a23f40453f4f6"
+preserve = true
 
 [[files]]
 file = "mods/adorn.toml"
