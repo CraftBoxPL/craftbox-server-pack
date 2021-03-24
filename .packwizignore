@@ -1,5 +1,7 @@
 .git/**
 .gitattributes
+.gitignore
+.DS_store
 readme.md
 packwiz
 index.html

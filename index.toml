@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".DS_Store"
-hash = "104ff3b2bf25f2faca62f14865c08174678213edda4bffefb8e620fe195a76be"
-
-[[files]]
-file = ".gitignore"
-hash = "86fcc6699713e199659a14b5f6429ca0079aa18d1f52dd1b269b5edecae8a940"
-
-[[files]]
 file = "config/Adorn.json5"
 hash = "d8b0dd4665502e997cf7b6bd4967d1ac073d1bfb93074faab4e337f4cc045a45"
 
