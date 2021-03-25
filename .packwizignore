@@ -2,12 +2,14 @@
 .gitattributes
 .gitignore
 .DS_Store
-mods/.DS_Store
 readme.md
 robots.txt
 packwiz
 index.html
 CNAME
 mods/jars/*
+mods/.DS_Store
+mods/*.txt
+mods/*.md
 craftbox_pl.zip
 

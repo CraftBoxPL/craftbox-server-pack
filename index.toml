@@ -964,12 +964,12 @@ metafile = true
 
 [[files]]
 file = "mods/atmosfera.toml"
-hash = "66b2e37d8e109a05bceb4cd69e2d97082a89c11ba6b5eec8263520760d8380fe"
+hash = "50a863062b1165927ff03e544621d97720a3dd0997072c1db8429828789c1c03"
 metafile = true
 
 [[files]]
 file = "mods/attribute.toml"
-hash = "622bb750c8326cd27e3f9f9ca07ed753190f5f73e4ab354f993b546e51269ebb"
+hash = "8861311e72b0f7ab829f204e9df97e19fa04b54e2a4929830bc5d76598ade31c"
 metafile = true
 
 [[files]]
@@ -1013,11 +1013,6 @@ hash = "b1adceffb639707d74b27bac33767313afad70c78e220a09618b9daba6dc7e80"
 metafile = true
 
 [[files]]
-file = "mods/better-world-border.toml"
-hash = "d09513463e16bd33a8484fa84c42ff9ff576761b512ce852a04f1a6168a9d7b1"
-metafile = true
-
-[[files]]
 file = "mods/betterend.toml"
 hash = "477acdb3c5b24bbfb9bbc1c446d237c353e5b600996138b2a6e350b1b8e9fb06"
 metafile = true
@@ -1029,7 +1024,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettersleepplus.toml"
-hash = "629e700c5c3278655debc34f277f287d5cc840918afcebac080c83b75ed97a34"
+hash = "43bf36c7b0380dfacbe6804a7efd0b17225e3f97befaa1d26b8c40720f328f27"
 metafile = true
 
 [[files]]

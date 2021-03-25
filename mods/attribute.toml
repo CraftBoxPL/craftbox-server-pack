@@ -1,6 +1,6 @@
 name = "Attribute Fix {FABRIC}"
 filename = "attribute-fix-fabric-1.0.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://edge.forgecdn.net/files/3121/774/attribute-fix-fabric-1.0.1.jar"

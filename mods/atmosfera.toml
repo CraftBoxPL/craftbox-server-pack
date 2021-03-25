@@ -1,6 +1,6 @@
 name = "Atmosfera"
 filename = "atmosfera-1.3.5.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3096/847/atmosfera-1.3.5.jar"

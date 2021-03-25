@@ -1,6 +1,6 @@
 name = "BetterSleepPlus"
 filename = "bettersleepplus-2.4.0.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://edge.forgecdn.net/files/3203/739/bettersleepplus-2.4.0.jar"
