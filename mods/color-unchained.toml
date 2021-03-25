@@ -1,6 +1,6 @@
 name = "Color Unchained"
 filename = "colorunchained-1.1.1-1.16.4.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3109/879/colorunchained-1.1.1-1.16.4.jar"

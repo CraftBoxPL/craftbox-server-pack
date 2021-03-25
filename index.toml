@@ -1083,18 +1083,13 @@ hash = "01dfde7df626ad67fece6307fcfe02e5ba034681583bac727348d01d634cf911"
 metafile = true
 
 [[files]]
-file = "mods/caves-cliffs-sculk.toml"
-hash = "f41c3b60af6e860c8ba16a26f47a93d2051a4a6c2664174316e07bcd7ecfaa23"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.toml"
 hash = "b4a1fcb36ac9371a620c602d88a7a02271ba8904f24d37c6ffca635708cb6d8e"
 metafile = true
 
 [[files]]
 file = "mods/chicken-drop-feathers.toml"
-hash = "8d45ee6a83c7a3bffe43afed854ac83f1d552f25ff3b98d9a01e8c6f06ff6f59"
+hash = "bc0b29113cee0ae52fcc9f8e7e54eafb86d5312456f3481c97ab4864a4346a40"
 metafile = true
 
 [[files]]
@@ -1129,7 +1124,7 @@ metafile = true
 
 [[files]]
 file = "mods/color-unchained.toml"
-hash = "6d601a86760512c54ca09202854a67b5390c24f2b752aaa204383168c13e456c"
+hash = "43b1ebe44071928502173535377a7dad161b93c906e2b118dea9b7ffe9b4913c"
 metafile = true
 
 [[files]]
@@ -1145,11 +1140,6 @@ metafile = true
 [[files]]
 file = "mods/concrete-plus.toml"
 hash = "d5f9934ba20d8b088e66e8fd4b94efc4c49f92f8a0d4389868a806957daf24ea"
-metafile = true
-
-[[files]]
-file = "mods/connectible-chains.toml"
-hash = "b36ea77b5d39f7ce4cb32d643ebd436f49126a05b0b5aab365c0fa4361522209"
 metafile = true
 
 [[files]]
@@ -1174,12 +1164,7 @@ metafile = true
 
 [[files]]
 file = "mods/damage-tint.toml"
-hash = "d92adc3e50959e552c6dd106674a3c9a3bcc67a784ef78c8021e58f7a6a79e6a"
-metafile = true
-
-[[files]]
-file = "mods/dark-loading-screen.toml"
-hash = "cf0e17727cdb5c67433ccae4a24e19e184a5dfc8f575e4faaf9de44470b17a2b"
+hash = "929c9afdcd52d38ba689d87c25c6f41109f82dea3453284befc0ecb70a9a9dd6"
 metafile = true
 
 [[files]]
@@ -1214,7 +1199,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.toml"
-hash = "c816f6d514cff6e874619b38bfe5afe77b432c5481822aaf03d42899451f731b"
+hash = "134e6a2120e9238bbcb6b5596b4e2d3bbccc783a2ee9f8f87087caa22603b945"
 metafile = true
 
 [[files]]
@@ -1304,7 +1289,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-furnace-for-fabric.toml"
-hash = "75782c4665bae2249e5e5cb5434b8615f0f64c7412bd254926c9cddc761d3b05"
+hash = "780de507b666a6c793b71991adab67db68a450013f6285bc13c39b85cac22aad"
 metafile = true
 
 [[files]]

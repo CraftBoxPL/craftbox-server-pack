@@ -1,6 +1,11 @@
 name = "Damage Tint"
 filename = "damage-tint-fabric-1.16.5-1.0.1.jar"
-side = "both"
+side = "client"
+
+[option]
+optional = true
+description = "Zabarwia krawędzie ekranu gry na czerwono, gdy masz mało punktów zdrowia."
+default = true
 
 [download]
 url = "https://edge.forgecdn.net/files/3203/476/damage-tint-fabric-1.16.5-1.0.1.jar"

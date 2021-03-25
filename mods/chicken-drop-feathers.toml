@@ -1,6 +1,6 @@
 name = "Chicken Drop Feathers"
 filename = "ChickenDropFeathers-1.0-fabric-0.31.0+1.16.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://edge.forgecdn.net/files/3236/102/ChickenDropFeathers-1.0-fabric-0.31.0+1.16.jar"
